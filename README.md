@@ -3,7 +3,7 @@
 A Java-based Car Booking System developed using Object-Oriented Programming (OOP) concepts. The system allows customers and employees to interact with a car showroom, check vehicle availability, calculate rental prices, select pickup dates, save booking information, and display car details through a simple JavaFX interface.
 
 ## Features
-
+  
 - Customer and Employee registration
 - Password validation
 - Car selection and booking
